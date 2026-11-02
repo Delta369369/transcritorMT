@@ -2,7 +2,16 @@
 
 ![Identidade visual do Transcritor](Transcritor_by_Delta_Victor.png)
 
-Transcrição local de áudio e vídeo em português brasileiro com Whisper large-v3-turbo, saída TXT e DOCX e opções para transcrição única ou em lote.
+**Transcritor de áudio e vídeo em português brasileiro**, com Whisper large-v3-turbo, transcrição automática local e saída TXT e DOCX. Oferece transcrição única e em lote para apoiar **OSINT, investigação, análise de entrevistas e trabalho forense**.
+
+*Audio and video transcription in Brazilian Portuguese with Whisper: local speech-to-text for OSINT, investigation and digital forensics workflows.*
+
+## Aplicações em OSINT, investigação e trabalho forense
+
+- **OSINT — inteligência de fontes abertas:** transcrição de áudios e vídeos obtidos em fontes públicas, facilitando a pesquisa de palavras e a organização do conteúdo falado.
+- **Investigação e oitivas:** apoio à documentação de entrevistas, depoimentos e interrogatórios, com marcações de tempo no modo de transcrição única para consultar os trechos na mídia original.
+- **Trabalho forense e perícia digital:** apoio à análise de conteúdo de arquivos de áudio e vídeo, com relatórios de transcrição para revisão humana. A transcrição automática não substitui a análise pericial ou a conferência da mídia original.
+- **Transcrição em lote:** organização de vários áudios em um relatório consolidado, útil na triagem de materiais e na análise documental.
 
 ## Instalação e uso
 
