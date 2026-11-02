@@ -22,6 +22,20 @@ Consulte o [manual de instalação e uso](Apoio/README.md).
 
 Os relatórios são gerados automaticamente e devem ser conferidos com a mídia original, especialmente nomes, números e termos técnicos.
 
+## Exemplos de resultado
+
+### Transcrição única
+
+Exemplo de relatório individual com identificação da mídia e marcações de tempo por trecho.
+
+![Exemplo de transcrição única com marcações de tempo](docs/imagens/resultado-transcricao-unica.png)
+
+### Transcrição em lote
+
+Exemplo de relatório consolidado com seções por arquivo, metadados e observação final.
+
+![Exemplo de transcrição em lote com seções por arquivo](docs/imagens/resultado-transcricao-lote.png)
+
 ## Identidade visual e distribuição
 
 A arte completa é o banner do projeto. O menu do PowerShell usa uma adaptação em texto com fundo preto, moldura verde e a assinatura **by Delta_Victor**, sem bibliotecas gráficas adicionais.
