@@ -1,0 +1,50 @@
+# Ambientes, bibliotecas e caches locais
+.venv/
+.venv_anterior_*/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# Configuração privada e arquivos temporários
+.env
+.env.*
+!.env.example
+.codex/
+.idea/
+.vscode/
+*.log
+*.tmp
+*.bak
+~$*
+Thumbs.db
+.DS_Store
+
+# Mídias, modelos baixados e resultados de transcrição
+*.mp3
+*.mp4
+*.wav
+*.opus
+*.ogg
+*.m4a
+*.flac
+*.aac
+*.wma
+*.webm
+*.mkv
+*.avi
+*.mov
+*.bin
+*.safetensors
+Transcrição_*.txt
+Transcrição_*.docx
+Transcricao_*.txt
+Transcricao_*.docx
+
+# Material local de teste e prévias
+Testes/
+.qa*/
+Modelos de saída/
+Modelo*.txt
+*.verificando.zip

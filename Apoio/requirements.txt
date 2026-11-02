@@ -1,0 +1,15 @@
+# Lista única de dependências. O auxiliar instala cada grupo quando necessário.
+# [base]
+faster-whisper>=1.1.1,<2
+python-docx>=1.1,<2
+# Compatibilidade com o decodificador do faster-whisper 1.2.1.
+av>=11,<19
+
+# FFmpeg/FFprobe portáteis, somente se os programas do sistema não funcionarem.
+# [media]
+static-ffmpeg>=3,<4
+
+# Somente para uso de GPU NVIDIA no Windows; dispensável com --cpu.
+# [gpu-windows]
+nvidia-cublas-cu12>=12,<13; platform_system == "Windows"
+nvidia-cudnn-cu12>=9,<10; platform_system == "Windows"
